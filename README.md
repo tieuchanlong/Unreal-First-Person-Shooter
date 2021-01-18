@@ -1,6 +1,8 @@
 # Introduction
 This an Unreal Project for FPS game. This is game is simply a replication of a Call of Duty Tutorial Level. This project is used to test out the capabilities of Unreal Blueprints and other factors.
 
+![](Title.PNG)
+
 # Development
 This game is mainly developed using Blueprints. I spent around a month to develop this project to both learn Unreal Engine and how to use Blueprints and Animations as well.
 
